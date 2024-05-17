@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://heliumpeng.github.io/images/主页个人照.jpg" class="floatpic" width="360" height="480">
+<img src="https://heliumpeng.github.io/images/主页个人照.jpg" class="floatpic" width="600" height="400">
 
 It's **Peng Yifeng (Bob, 彭一锋)** here.
 
