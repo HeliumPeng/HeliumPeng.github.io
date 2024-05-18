@@ -4,17 +4,14 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 12th Feb 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+> Lastest Update:18th May 2024&nbsp;  [中文版本 (Chinese Version)](https://heliumpeng.github.io/file/publications-zh/)
 
-## Conference Paper
+## Paper On Working
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai**, Yuchen Fang, Meng Yuan, Tozammel Hossain, Zhezhuang Xu<br>AAAI Conference on Artificial Intelligence, Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024. Full paper will be submitted to KDD 2024.
+- [Internet sentiment exacerbates intraday overtrading, evidence from A-Share market](https://arxiv.org/abs/2404.12001)
+ **Peng Yifeng**<br>Under reviewing by [Journal of Behavioral Finance](https://rp.tandfonline.com/submission/create?journalCode=HBHF)<br>
 
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://www.researchgate.net/publication/368410220_An_IoT_Garbage_Monitoring_System_for_Effective_Garbage_Management)<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-<br>
+- [Volatility-based strategy on Chinese equity index ETF options](https://arxiv.org/abs/2403.00474)<br>**Peng Yifeng**<br>Revising, will deliver ASAP
 
 ## Journal Paper
 
@@ -24,20 +21,9 @@ title: Publications
 
 ---
 
-## Working Manuscript
+## Paper under conception
 
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
+  - **Tainted Future of Language Models, Collapse and Degeneration**<br>The proliferation of hallucinatory data, a byproduct of model generation, insidiously taints the digital landscape. 
+  In this study, we introduce an innovative approach that leverages an infinitesimal fraction of the training corpus as a guiding catalyst to elicit hallucinatory outputs from the model. However, the human capability to rectify such distortions is inherently finite. This intrinsic constraint may, in turn, circumscribe the developmental trajectory of future models, posing a formidable challenge to their evolution and refinement.
 
-- Multi-objective Optimization Model Based on Analysis of Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
-
----
-
-## Undergrad Thesis
-
-- Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Final Year Project (FYP). Under working<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement Report in [Huading Tech](http://www.hdim.com.cn/) and [IACTIP Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
-  <br>
+  - **Bon gpt, unexpected food journey from AIGC**<br>In the realm of culinary recommendation, do LLMs possess a profound grasp of the intricacies of cooking, as well as the notions of taste and health? Could there be regional biases in food recommendations—might the model exhibit favoritism or prejudice towards certain national or regional dishes? This research is currently in its nascent stages. Should you be intrigued by the prospect of joining this endeavor, do not hesitate to reach out to me directly for collaboration.

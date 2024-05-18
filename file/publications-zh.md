@@ -4,28 +4,26 @@ permalink: /file/publications-zh/index.html
 title: Publications-zh
 ---
 
-> 更新时间：2024/01/28 &nbsp;  [English Version (英文)](https://caihanlin.com/publications/)
+> 更新时间：2024/05/18 &nbsp;  [English Version (英文)](https://heliumpeng.github.io/publications/)
+>> 此页面部分内容依赖有道词典自动翻译以及AIGC翻译，如有不通顺之处敬请包涵。
 
-## 数学建模竞赛论文
+## 当前已发表/预印本论文
 
-- [重塑马塞马拉的无上辉煌 (英文)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 徐哲壮 (指导老师)<br>2023年02月美国大学生数学建模竞赛特等奖提名 (排名前1%)<br>
+- [Internet sentiment exacerbates intraday overtrading, evidence from A-Share market](https://arxiv.org/abs/2404.12001)
+ **Peng Yifeng**<br>Under reviewing by [Journal of Behavioral Finance](https://rp.tandfonline.com/submission/create?journalCode=HBHF)<br>
 
-  
+- [Volatility-based strategy on Chinese equity index ETF options](https://arxiv.org/abs/2403.00474)<br>**Peng Yifeng**<br>Revising, will deliver ASAP
 
-- [基于改进型调度算法的无人机遂行编队飞行研究](https://caihanlin.com/mypaper/modeling/202209CUMCM.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年09月“高教社杯”全国大学生数学建模竞赛福建赛区本科组一等奖 (排名前6%)<br>
+## 期刊论文
 
-  
+- 敬请期待
 
-- [基于多目标规划模型的交通枢纽最优布局分析](https://caihanlin.com/mypaper/modeling/202206FZU.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年06月“南威杯”福州大学数学建模竞赛本科组三等奖 (排名前15%)<br>
+  <br>
 
-<br>
+---
 
-## 工业实习报告
+## 正在构思的论文点子（欢迎加入！）
 
-- [基于物联网的智慧工厂安全巡检系统](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>大三学年工业实习报告 (2023/02 — 2023/06)<br>
+  - **Tainted Future of Language Models, Collapse and Degeneration**<br>大模型生成的幻觉数据的激增不知不觉地玷污了训练数据。我尝试引入了一种创新的方法，利用训练语料库的极小部分作为特征工程，从模型中引出幻觉输出。然而，人类纠正这种扭曲的能力本质上是有限的。这种内在的约束可能反过来限制未来模型的发展轨迹，对它们的进化和改进提出了巨大的挑战。
 
-<br>
-
-## 毕业设计论文
-
-- 面向低功耗蓝牙网络的复合型欺骗攻击检测机制<br>**蔡汉霖**，徐哲壮（指导老师）<br>本科毕业设计论文（2023/12 — 2024/05）<br>本项目以海报论文形式，发表在AAAI 2024 UC，计划进一步投稿至KDD 2024
+  - **Bon gpt, unexpected food journey from AIGC**<br>在烹饪推荐领域，大语言模型是否对烹饪的复杂性以及味道和健康的概念有深刻的把握?在食物推荐中是否存在地域偏见——该模型是否会对某些国家或地区的菜肴表现出偏爱或偏见?这项研究目前还处于初级阶段。如果您对加入这一努力的前景感兴趣，请不要犹豫，直接与我联系。
