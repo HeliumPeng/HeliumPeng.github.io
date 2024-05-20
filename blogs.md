@@ -4,9 +4,10 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Chinese Blogs
-
-### 2024
+## Chinese/English Blogs
+Currently On working! I'm trying to move my essays and blogs here when I have free time.
+目前还在建设中，我会将我的随笔和博客内容定期搬运到此页面，敬请期待。
+<!-- ### 2024
 
 - [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
 - [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
@@ -34,7 +35,7 @@ title: Blogs
 - [18岁，缓慢受锤的黄金年代🎂](https://caihanlin.com/blogs/18yrs)<br>
 - [本科博客，笔记，回忆录](https://mieclance.club/)
 
-<br>
+<br> -->
 
 ## Leave a Message
 
@@ -47,8 +48,8 @@ title: Blogs
 ## Web Star History
 
 - [Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io) 
-- 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)留下一个Star吧
+- 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/HeliumPeng/HeliumPeng.github.io)留下一个Star吧
 
-<br>[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
+<br>[![Star History Chart](https://api.star-history.com/svg?repos=HeliumPeng/HeliumPeng.github.io&type=Date)](https://star-history.com/#HeliumPeng/HeliumPeng.github.io&Date)
 
 <br>
