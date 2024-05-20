@@ -7,7 +7,9 @@ title: Blogs
 ## Chinese/English Blogs
 Currently On working! I'm trying to move my essays and blogs here when I have free time.
 目前还在建设中，我会将我的随笔和博客内容定期搬运到此页面，敬请期待。
-<!-- ### 2024
+
+<!-- 
+### 2024
 
 - [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
 - [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
@@ -35,7 +37,8 @@ Currently On working! I'm trying to move my essays and blogs here when I have fr
 - [18岁，缓慢受锤的黄金年代🎂](https://caihanlin.com/blogs/18yrs)<br>
 - [本科博客，笔记，回忆录](https://mieclance.club/)
 
-<br> -->
+<br> 
+-->
 
 ## Leave a Message
 
