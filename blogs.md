@@ -8,6 +8,8 @@ title: Blogs
 Currently On working! I'm trying to move my essays and blogs here when I have free time.
 目前还在建设中，我会将我的随笔和博客内容定期搬运到此页面，敬请期待。
 
+### 2024
+- [秽土转生的新账号](https://heliumpeng.github.io/blogs/2024-5-21First_Blog/)
 <!-- 
 ### 2024
 
