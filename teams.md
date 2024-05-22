@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teams/index.html
-title: Teams
+permalink: /interests/index.html
+title: Interests
 ---
 
 ## Why become a Researcher?
