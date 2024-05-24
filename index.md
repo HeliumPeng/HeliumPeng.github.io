@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://heliumpeng.github.io/images/主页个人照.jpg" class="floatpic" width="600" height="400">
 
-It's **Peng Yifeng (Bob, 彭一锋)** here.
+It's **helium Peng** here(You can just call me Bob).
 
 I am looking for 2024 Fall intake Ph.D in Finance/Fintech as well as artificial intellgence, I prefer interdisciplinary works. 
 

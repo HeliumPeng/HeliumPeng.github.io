@@ -14,6 +14,10 @@ Here is **Peng Yifeng (Bob, 彭一锋)**. This is my personal web repo. You coul
 
 [![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date) -->
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HeliumPeng/HeliumPeng.github.io&type=Date)](https://star-history.com/#HeliumPeng/HeliumPeng.github.io&Date)
+
 ## Statement
 
 © 2024 Peng Yifeng. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/HeliumPeng/HeliumPeng.github.io).
