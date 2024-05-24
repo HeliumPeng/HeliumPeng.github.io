@@ -35,7 +35,7 @@ My current research focuses on the **Alignment Problem** in Large Language model
 ---
 
 ## News and Updates
-
+- **May 21 2024：**The [Online Coffee Chat](https://calendly.com/heliumbob/how-about-an-online-coffee-with-helium) and [disqus](https://heliumpeng.github.io/blogs/) are available now, welcome to leave a message and chat with me!
 - **April 21 2024：**New Personl website! Welcome everyone!
 
 

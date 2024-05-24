@@ -21,8 +21,11 @@ The real investors and the real market are not easily solvable by elegant and si
 ## AI Alignment
 
 With the rapid advancement of Artificial Intelligence Generated Content (AIGC) technology, we are on the threshold of a new era where human productivity is expected to be unleashed as never before. What I am particularly interested in is how to use AI more effectively to create content and explore the construction of a society where humans and machines coexist harmoniously. In this process, AI alignment – ensuring that the goals of artificial intelligence systems are aligned with human values and intentions – has become a crucial topic.<br>
+
 In the field of behavioral finance, cognitive biases of investors are often seen as the result of the limitations of human physiological evolution and information asymmetry. These biases indicate that human decision-making processes are not always rational but are influenced by a variety of psychological and social factors. The challenge for AI systems in alignment issues is that they need to transcend these human limitations while avoiding hallucinations and data contamination that may occur in their own algorithmic and data processing processes.<br>
+
 AI systems may make incorrect inferences or predictions in the absence of sufficient data or understanding. Data contamination involves noise and bias in the training datasets, which can lead AI systems to learn incorrect patterns or biases. To address these issues, more robust algorithms need to be developed to ensure that AI systems can learn from high-quality, diverse data and exhibit transparency and interpretability in their decision-making processes.<br>
+
 Furthermore, as AI systems become more complex and autonomous, ensuring that their decision-making processes are consistent with human ethical standards and long-term interests will be a continuous challenge. This involves interdisciplinary cooperation, with experts in fields such as computer science, psychology, philosophy, and economics working together to ensure the healthy development of AI technology and to benefit all people.<br>
 
 <!-- ---
