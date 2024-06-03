@@ -22,6 +22,9 @@ title: Publications
 ---
 
 ## Paper under conception
+  - **Data Reshaping Productivity - Exploration of Embedding Data Elements into Production Functions**<br>Just start writing, may take a while.
+
+  - **New intelligent empowerment for digital transformation**<br>Under writing now, will deliver soon.
 
   - **Tainted Future of Language Models, Collapse and Degeneration**<br>The proliferation of hallucinatory data, a byproduct of model generation, insidiously taints the digital landscape. 
   In this study, we introduce an innovative approach that leverages an infinitesimal fraction of the training corpus as a guiding catalyst to elicit hallucinatory outputs from the model. However, the human capability to rectify such distortions is inherently finite. This intrinsic constraint may, in turn, circumscribe the developmental trajectory of future models, posing a formidable challenge to their evolution and refinement.
