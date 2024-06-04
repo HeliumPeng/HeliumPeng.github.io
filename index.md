@@ -12,7 +12,7 @@ I am looking for 2024 Fall intake Ph.D in Finance/Fintech as well as artificial 
 
 Currently, I worked as a research asscioate under the guidence of [Prof. CHEN chen](https://myweb.cuhk.edu.cn/chenchen2020) in Chinese University of Hong Kong (Shenzhen).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, email me at *yifengpeng[at]link[dot]cuhk[dot]edu[dot]cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, email me at *yifengpeng[at]link[dot]cuhk[dot]edu[dot]cn* or schedule a [Online Coffee Chat](https://calendly.com/heliumbob/how-about-an-online-coffee-with-helium) with me.
 
 ## Academic Background
 
