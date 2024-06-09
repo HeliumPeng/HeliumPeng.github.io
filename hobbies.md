@@ -20,10 +20,20 @@ Always ready for exploring other possibilities in life
 > <font face="Italic">*Les bases aimer cuisiner, c'est aimer et cuisiner*
 > *--Paul Bocuse*</font>
 
+<div class="third">
+<img src="/images/hobbies/煎牛排.jpg">
+<img src="/images/hobbies/新疆炒米粉.jpg">
+<img src="/images/hobbies/英式全餐.jpg">
+</div>
+
 I hold the belief that diet is an essential aspect of life. When I find myself with free time, I take great pleasure in preparing a variety of delicious dishes for myself and my loved ones. I cherish life and savor every meal.<br>
 During my time at the University of Hong Kong, due to epidemic prevention and other factors, I began to frequently cook in my rented apartment and gradually discovered the joy of cooking. Cooking requires attention to detail, thoughtful consideration, and time investment. Through this process, I came to appreciate the warmth of human life and distanced myself from self-consumption and depressive emotions.<br>
 I spent my life before university in a small city in Jiangxi Province. For my undergraduate studies, I moved to Changsha, Hunan, a city known for its spicy culinary habits, which are among the most famous in China. I also have a unique preference for spicy foods. As I progressed to graduate studies, I have been in the Guangdong region for more than four years. Currently, I have a high tolerance for Cantonese cuisine, and I enjoy exploring Western and exotic foods. Among Western cuisines, I have a particular fondness for Italian and French dishes.
-
+<div class="third">
+<img src="/images/hobbies/三杯鸡.jpg">
+<img src="/images/hobbies/托斯卡纳三文鱼.jpg">
+<img src="/images/hobbies/胡萝卜土豆炖牛腩.jpg">
+</div>
 
 ## Exercise
 
