@@ -22,7 +22,7 @@ Always ready for exploring other possibilities in life
 
 <div class="third">
 <img src="/images/hobbies/煎牛排.jpg">
-<img src="/images/hobbies/新疆炒米粉.jpg">
+<img src="/images/hobbies/托斯卡纳三文鱼.jpg">
 <img src="/images/hobbies/英式全餐.jpg">
 </div>
 
@@ -31,7 +31,7 @@ During my time at the University of Hong Kong, due to epidemic prevention and ot
 I spent my life before university in a small city in Jiangxi Province. For my undergraduate studies, I moved to Changsha, Hunan, a city known for its spicy culinary habits, which are among the most famous in China. I also have a unique preference for spicy foods. As I progressed to graduate studies, I have been in the Guangdong region for more than four years. Currently, I have a high tolerance for Cantonese cuisine, and I enjoy exploring Western and exotic foods. Among Western cuisines, I have a particular fondness for Italian and French dishes.
 <div class="third">
 <img src="/images/hobbies/三杯鸡.jpg">
-<img src="/images/hobbies/托斯卡纳三文鱼.jpg">
+<img src="/images/hobbies/新疆炒米粉.jpg">
 <img src="/images/hobbies/胡萝卜土豆炖牛腩.jpg">
 </div>
 
