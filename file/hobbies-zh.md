@@ -4,7 +4,7 @@ permalink: /file/hobbies-zh/index.html
 title: Hobbies-zh
 ---
 
-> 更新时间:20th May 2024&nbsp;  [English Version (英文)](https://heliumpeng.github.io/hobbies/)
+> 更新时间:9th Jun 2024&nbsp;  [English Version (英文)](https://heliumpeng.github.io/hobbies/)
 
 # 个人爱好
 我非常乐意探索人生的其他可能
@@ -16,10 +16,21 @@ title: Hobbies-zh
 <img src="/images/swimming.JPG">
 <img src="/images/surfing1.JPG">
 </div> -->
-> <font face="Italic">*喜欢下厨就是学着如何爱并为爱的人下厨
-> --保罗.博古斯*</font>
+> *喜欢下厨就是学着如何爱并为爱的人下厨
+> --保罗.博古斯*
+
+<div class="third">
+<img src="/images/hobbies/煎牛排.jpg">
+<img src="/images/hobbies/托斯卡纳三文鱼.jpg">
+<img src="/images/hobbies/英式全餐.jpg">
+</div>
 
 我认为饮食是生活中极为重要的一环，在有闲暇时间时，我非常愿意为我自己与我爱的人烹饪各种美食，热爱生活，热爱每一餐。<br>在香港大学就读期间，由于疫情防控等因素，我开始经常在租房内做饭，并开始逐渐发现烹饪的乐趣所在。烹饪需要细心，需要思考，需要付出时间，我在这一过程中体会到人间的烟火气息并远离自我内耗与抑郁情绪<br>我在江西省中一个小城市度过了大学之前的生活，本科又来到了饮食习惯泼辣的湖南长沙市，这两个地区的人们对辣的偏爱在中国名列前茅，我也对带有辣味的美食具有独特的偏爱。而随着我申入研究生，在广东地区已经呆了四年有余，目前我对粤菜的包容度也非常高，同时我喜爱探索西餐与异国美食，而西餐中，我对意大利菜与法餐相对更加青睐。
+<div class="third">
+<img src="/images/hobbies/三杯鸡.jpg">
+<img src="/images/hobbies/新疆炒米粉.jpg">
+<img src="/images/hobbies/胡萝卜土豆炖牛腩.jpg">
+</div>
 
 
 ## 健身与锻炼
