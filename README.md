@@ -1,6 +1,6 @@
 # Helium refers to pure and serene ✨
 
-Here is **Peng Yifeng (Bob, 彭一锋)**. This is my personal web repo. You could star if you like it~ 🥰
+Here is **Helium (or Bob)**. This is my personal web repo. You could star if you like it~ 🥰
 
 ## Update and News
 
