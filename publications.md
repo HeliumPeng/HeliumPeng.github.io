@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update:18th May 2024&nbsp;  [中文版本 (Chinese Version)](https://heliumpeng.github.io/file/publications-zh/)
+> Lastest Update:4th July 2024&nbsp;  [中文版本 (Chinese Version)](https://heliumpeng.github.io/file/publications-zh/)
 
 ## Paper On Working
 
@@ -15,8 +15,10 @@ title: Publications
 
 ## Journal Paper
 
-- Coming soon!
-
+- [New intelligent empowerment for digital transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877072)
+  **Peng Yifeng,** **Gao Chen**<br>Under reviewing by [Technovation](https://www.sciencedirect.com/journal/technovation)
+- [Technological Non-Neutrality, Model Deconstruction & Governance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4885346)
+  **Peng YIfeng**<br>Submiited to [AI and Ethics](https://link.springer.com/journal/43681)
   <br>
 
 ---
@@ -24,7 +26,6 @@ title: Publications
 ## Paper under conception
   - **Data Reshaping Productivity - Exploration of Embedding Data Elements into Production Functions**<br>Just start writing, may take a while.
 
-  - **New intelligent empowerment for digital transformation**<br>Under writing now, will deliver soon.
 
   - **Tainted Future of Language Models, Collapse and Degeneration**<br>The proliferation of hallucinatory data, a byproduct of model generation, insidiously taints the digital landscape. 
   In this study, we introduce an innovative approach that leverages an infinitesimal fraction of the training corpus as a guiding catalyst to elicit hallucinatory outputs from the model. However, the human capability to rectify such distortions is inherently finite. This intrinsic constraint may, in turn, circumscribe the developmental trajectory of future models, posing a formidable challenge to their evolution and refinement.
