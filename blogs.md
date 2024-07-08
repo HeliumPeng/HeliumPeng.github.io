@@ -10,7 +10,7 @@ Currently On working! I'm trying to move my essays and blogs here when I have fr
 
 ### 2024
 
-#### 六月/June
+#### 七月/July
 - [(未完待续)]
 
 #### 五月/May
