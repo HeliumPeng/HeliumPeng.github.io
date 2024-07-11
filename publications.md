@@ -24,7 +24,8 @@ title: Publications
 ---
 
 ## Paper under conception
-  - **Data Reshaping Productivity - Exploration of Embedding Data Elements into Production Functions**<br>Just start writing, may take a while.
+  - **Data Reshaping Productivity - Exploration of Embedding Data Elements into Production Functions**<br>This is my attempt to approach the human-AI alignment issue from the perspective of development economics. During the writing process, I have unlocked many new ideas. This article will be heavily theoretical, representing a bold attempt on my part.
+
 
 
   - **Tainted Future of Language Models, Collapse and Degeneration**<br>The proliferation of hallucinatory data, a byproduct of model generation, insidiously taints the digital landscape. 

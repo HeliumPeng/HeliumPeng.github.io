@@ -35,7 +35,7 @@ My current research focuses on the **Alignment Problem** in Large Language model
 ---
 
 ## News and Updates
-- **July 4 2024：** Finally submiited the manuscript of [New intelligent empowerment for digital transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4885346) to [AI and Ethics](https://link.springer.com/journal/43681), it's a capstone for my Alignment Research.
+- **July 4 2024：** Finished the manuscript of [Generative AI Goverance Framework](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4885346) to [AI and Ethics](https://link.springer.com/journal/43681), it's a capstone for my Alignment Research.
 - **June 26 2024：** I finished my paper [New intelligent empowerment for digital transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877072)🔗 and submiited to [Technovation](https://www.sciencedirect.com/journal/technovation)
 - **May 21 2024：** The [Online Coffee Chat](https://calendly.com/heliumbob/how-about-an-online-coffee-with-helium) and [disqus](https://heliumpeng.github.io/blogs/) are available now, welcome to leave a message and chat with me!
 - **April 21 2024：** New Personl website! Welcome everyone!
