@@ -8,7 +8,7 @@ layout: page
 
 It's **helium Peng** here(You can just call me Bob).
 
-I am looking for 2024 Fall intake Ph.D in Finance/Fintech as well as artificial intellgence, I prefer interdisciplinary works. 
+I am looking for 2024 Fall/2025 Spring intake Ph.D in Finance/Fintech as well as artificial intellgence, I prefer interdisciplinary works. 
 
 Currently, I worked as a research asscioate under the guidence of [Prof. CHEN chen](https://myweb.cuhk.edu.cn/chenchen2020) in Chinese University of Hong Kong (Shenzhen).
 
@@ -24,18 +24,20 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Artificial intelligence generative content(AIGC) and its Application in decision making
+- Artificial intelligence generative content(AIGC) and its Application in decision making (Or you could just call it fintech)
 - AI Alignment [(A quick guide for AI Alignment Problems)](https://alignmentsurvey.com/)🔗
-- Behavorial Finance
-- Alternative data mining
+- Behavorial Finance (Investor Sentiment/emotion; Cognitive bias under information asymmetry)
+- Experimental Finance/Neruofinance/Neuroeconomics (I'm just a beginner in this field)
+- Alternative data mining (The usage of multimoal data with AIGC)
 - [My latest research proposal (March 2024)](https://heliumpeng.github.io/file/Peng-RP-2024.3.pdf)🔗
 
 My current research focuses on the **Alignment Problem** in Large Language models (LLMs), I'm also a fan for **Behavioral Finance**, with a heart for bounded rationality. Hoping that AI can liberate productivity and benefit mankind.
 
+Try to find a connection between human behavior and machine behavior, LLMs were trained by biased data (Researchs were done to make sure no harm to human, but how to avoid potential future harms when everyone use it everyday in multiply field?), and human were influenced by the biased information, we would face a future together with AI, how to make the AI more aligned with human values is the key point of my research.
 ---
 
 ## News and Updates
-- **September 5 2024:** I ended my internship at GEEKR, with a hole new understanding of digital transformation in manufacturing industry.
+- **September 5 2024:** I ended my internship at GEEKR, with a hole new understanding of digital transformation in manufacturing industry, and got in touch with ESG topics.
 - **August 29 2024:** Really thrilled be informed that My paper [Sentiment towards Overtrading](https://arxiv.org/abs/2404.12001) has been accepted by **Journal of Finance and Accounting**. (Acceptance)[https://heliumpeng.github.io/file/Acceptance_Letter_1711489[22268].pdf]
 - **July 4 2024:** Finished the manuscript of [Generative AI Goverance Framework](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4885346) to [AI and Ethics](https://link.springer.com/journal/43681), it's a capstone for my Alignment Research.
 - **June 26 2024:** I finished my paper [New intelligent empowerment for digital transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877072)🔗 and submiited to [Technovation](https://www.sciencedirect.com/journal/technovation)

@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update:4th July 2024&nbsp;  [中文版本 (Chinese Version)](https://heliumpeng.github.io/file/publications-zh/)
+> Lastest Update:23th September 2024&nbsp;  [中文版本 (Chinese Version)](https://heliumpeng.github.io/file/publications-zh/)
 
 ## Paper On Working
 
@@ -25,8 +25,6 @@ title: Publications
 
 ## Paper under conception
   - **Data Reshaping Productivity - Exploration of Embedding Data Elements into Production Functions**<br>This is my attempt to approach the human-AI alignment issue from the perspective of development economics. During the writing process, I have unlocked many new ideas. This article will be heavily theoretical, representing a bold attempt on my part.
-
-
 
   - **Tainted Future of Language Models, Collapse and Degeneration**<br>The proliferation of hallucinatory data, a byproduct of model generation, insidiously taints the digital landscape. 
   In this study, we introduce an innovative approach that leverages an infinitesimal fraction of the training corpus as a guiding catalyst to elicit hallucinatory outputs from the model. However, the human capability to rectify such distortions is inherently finite. This intrinsic constraint may, in turn, circumscribe the developmental trajectory of future models, posing a formidable challenge to their evolution and refinement.
