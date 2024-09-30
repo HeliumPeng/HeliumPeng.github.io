@@ -34,6 +34,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 My current research focuses on the **Alignment Problem** in Large Language models (LLMs), I'm also a fan for **Behavioral Finance**, with a heart for bounded rationality. Hoping that AI can liberate productivity and benefit mankind.
 
 Try to find a connection between human behavior and machine behavior, LLMs were trained by biased data (Researchs were done to make sure no harm to human, but how to avoid potential future harms when everyone use it everyday in multiply field?), and human were influenced by the biased information, we would face a future together with AI, how to make the AI more aligned with human values is the key point of my research.
+
 ---
 
 ## News and Updates
