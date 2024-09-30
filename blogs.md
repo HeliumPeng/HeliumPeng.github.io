@@ -10,8 +10,8 @@ Currently On working! I'm trying to move my essays and blogs here when I have fr
 
 ### 2024
 
-#### 七月/July
-- [(未完待续)]
+#### 九月/September
+- [论文诚宝贵，诚信价更高](https://heliumpeng.github.io/blogs/2024-9-15_Blog/)
 
 #### 五月/May
 - [秽土转生的新账号](https://heliumpeng.github.io/blogs/2024-5-21First_Blog/)
