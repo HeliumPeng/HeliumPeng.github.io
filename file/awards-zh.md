@@ -4,13 +4,13 @@ permalink: /file/awards-zh/index.html
 title: Awards-zh
 ---
 
-> 更新时间：2024/05/19 &nbsp; [English Version (英文)](https://heliumpeng.github.io/awards/)
+> 更新时间：2025/01/20 &nbsp; [English Version (英文)](https://heliumpeng.github.io/awards/)
 
 ## 综合荣誉(部分)
 
-- 2023/11: **Dean List Nomination**
+- 2023/11: [**Dean List Nomination**](https://heliumpeng.github.io/file/SFI%20Dean%20List.pdf)
   深圳高等金融研究院与香港中文大学（深圳）共同提名
-- 2023/11: **逸夫精神奖**
+- 2023/11: [**逸夫精神奖**](https://heliumpeng.github.io/file/Shaw Spirit Award.pdf)
   香港中文大学（深圳）逸夫书院提名
 - 2023/05: **杰出服务志愿者**
   香港中文大学（深圳）微光公益提名
@@ -23,27 +23,28 @@ title: Awards-zh
 
 ## 奖学金与资助
 
-- 2023/11: **二等院长奖学金**
+- 2023/11: [**二等院长奖学金**](https://heliumpeng.github.io/file/SFI Second Class Award.pdf)
   深圳高等金融研究院奖学金
-- 2019/12: **二等奖学金**（2000元）
+- 2019/12: [**一等奖学金**](https://heliumpeng.github.io/file/HNU-scholarship-First.jpg)（3000元）
   湖南大学校级奖学金
 - 2019/05: **学生创新竞赛立项**（10000元）
   湖南大学创新创业中心资助
-- 2018/12: **二等奖学金**（2000元）
-  湖南大学校级奖学金
 - 2018/05: **学生创新竞赛立项**（10000元）
   湖南大学创新创业中心资助
-- 2017/12: **二等奖学金**（2000元）
+- 2017/12: **一等奖学金**（3000元）
   湖南大学校级奖学金
 
 ## 竞赛获奖（部分）
-
+- 2025/01: Kaggle Regression with an Insurance Dataset S4E12[**171/2390**](https://heliumpeng.github.io/file/Regression%20with%20an%20Insurance%20Dataset.png)
+  （全球171名/约2390支参赛队伍）
+- 2024/12：Kaggle Jane Street Real-Time Market Data Forecasting[**银牌**](https://heliumpeng.github.io/file/JaneStreet%E7%AB%9E%E8%B5%9B%E9%93%B6%E7%89%8C119%E5%90%8D.png)
+  (全球119名/约3600名参赛队伍)
 - 2019/06: 第十三届挑战者杯**特等奖**
   (湖南省特等奖，所有参赛作品前1%)
 - 2019/05: 湖南大学互联网+**大学生创新创业竞赛一等奖**
   (参赛作品前四名共享一等奖)
 - 2018/09: 湖南大学工程训练竞赛**二等奖**
-  (竞赛全校第十名)
+  (竞赛全校前7名)
 
 ## 社会服务（部分）
 

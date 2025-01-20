@@ -18,14 +18,16 @@ title: Awards
 
 ## Scholarships
 
-- 2023/11: [**Second Class Scholarship**](https://heliumpeng.github.io/file/Special Award for Challenge Cup.pdf) from SFI
+- 2023/11: [**Second Class Scholarship**](https://heliumpeng.github.io/file/SFI Second Class Award.pdf) from SFI
 - 2019/12: [**First Class Scholarship**](https://heliumpeng.github.io/file/HNU-scholarship-First.jpg) from HNU(￥3000)
 - 2019/05: **Student Innovation Training Fund** from HNU(￥10000)
 - 2018/05: **Student Innovation Training Fund** from HNU(￥5000)
 - 2017/12: **Second Class Scholarship** from HNU(￥3000)
 
 ## Competitions (Selected)
-
+- 2025/01: [**171/2390**](https://heliumpeng.github.io/file/Regression%20with%20an%20Insurance%20Dataset.png) in Kaggle Regression with an Insurance Dataset S4E12
+- 2024/12：[**Silver Medal**](https://heliumpeng.github.io/file/JaneStreet%E7%AB%9E%E8%B5%9B%E9%93%B6%E7%89%8C119%E5%90%8D.png)
+  (119/3600+) in Kaggle Jane Street Real-Time Market Data Forecasting
 - 2019/06: [**Special Award**](https://heliumpeng.github.io/file/Special Award for Challenge Cup.pdf) in No.13 Challenge Cup Contest
   (Hunan Province Top 1%)
 - 2019/05: **First Prize** in HNU Internet+ contest
