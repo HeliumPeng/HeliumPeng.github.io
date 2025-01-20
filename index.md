@@ -39,6 +39,7 @@ Try to find a connection between human behavior and machine behavior, LLMs were 
 
 ## News and Updates
 - **January 1 2025:** Happy New Year! An research about how fund distribution channel affect return submitted to 15th Financial Market and Corporate Governance Conference 2025 (FMCG 2025). [Early Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5091895)
+- **December 28 2024:** I achieved new record in [**Kaggle Jane Street Real-Time Market Data Forecasting**](https://heliumpeng.github.io/file/JaneStreet%E7%AB%9E%E8%B5%9B%E9%93%B6%E7%89%8C119%E5%90%8D.png).
 - **November 15 2024:** An multi-disciplinary research in neuroeconomics with Gao Chen & Xi Gong was finished. [Early Access(On working)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037677)
 - **September 5 2024:** I extended my internship at GEEKR as remote worker, need a balance between RA workload.
 - **August 29 2024:** Really thrilled be informed that My paper [Sentiment towards Overtrading](https://arxiv.org/abs/2404.12001) has been accepted by **Journal of Finance and Accounting**. [Acceptance](https://heliumpeng.github.io/file/Acceptance_Letter_1711489[22268].pdf)

@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update:23th September 2024&nbsp;  [中文版本 (Chinese Version)](https://heliumpeng.github.io/file/publications-zh/)
+> Lastest Update:20th January 2025&nbsp;  [中文版本 (Chinese Version)](https://heliumpeng.github.io/file/publications-zh/)
 
 ## Paper On Working
 
