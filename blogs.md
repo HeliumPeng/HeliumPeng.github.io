@@ -59,7 +59,7 @@ Currently On working! I'm trying to move my essays and blogs here when I have fr
 
 ## Web Star History
 
-- [Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io) 
+- [Leave a star if you like it 🥰](https://github.com/HeliumPeng/HeliumPeng.github.io) 
 - 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/HeliumPeng/HeliumPeng.github.io)留下一个Star吧
 
 <br>[![Star History Chart](https://api.star-history.com/svg?repos=HeliumPeng/HeliumPeng.github.io&type=Date)](https://star-history.com/#HeliumPeng/HeliumPeng.github.io&Date)

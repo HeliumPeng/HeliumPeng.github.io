@@ -8,9 +8,9 @@ layout: page
 
 It's **helium Peng** here(You can just call me Bob).
 
-I am looking for 2024 Fall/2025 Spring intake Ph.D in Finance/Fintech as well as artificial intellgence, I prefer interdisciplinary works. 
+I am looking for 2025 Spring/Fall intake Ph.D in Finance/Fintech as well as artificial intellgence, I prefer interdisciplinary works. 
 
-Currently, I worked as a research asscioate under the guidence of [Prof. CHEN chen](https://myweb.cuhk.edu.cn/chenchen2020) in Chinese University of Hong Kong (Shenzhen).
+Currently, I worked as a research asscioate under the guidence of [Prof. CHEN chen](https://myweb.cuhk.edu.cn/chenchen2020) in Chinese University of Hong Kong (Shenzhen), meanwhile I'm collaborating with researchers with similiar interests.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, email me at *yifengpeng[at]link[dot]cuhk[dot]edu[dot]cn* or schedule a [Online Coffee Chat](https://calendly.com/heliumbob/how-about-an-online-coffee-with-helium) with me.
 
@@ -24,7 +24,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Artificial intelligence generative content(AIGC) and its Application in decision making (Or you could just call it fintech)
+- Artificial intelligence generative content(AIGC) and its Application in decision making
 - AI Alignment [(A quick guide for AI Alignment Problems)](https://alignmentsurvey.com/)🔗
 - Behavorial Finance (Investor Sentiment/emotion; Cognitive bias under information asymmetry)
 - Experimental Finance/Neruofinance/Neuroeconomics (I'm just a beginner in this field)
@@ -38,8 +38,10 @@ Try to find a connection between human behavior and machine behavior, LLMs were 
 ---
 
 ## News and Updates
-- **September 5 2024:** I ended my internship at GEEKR, with a hole new understanding of digital transformation in manufacturing industry, and got in touch with ESG topics.
-- **August 29 2024:** Really thrilled be informed that My paper [Sentiment towards Overtrading](https://arxiv.org/abs/2404.12001) has been accepted by **Journal of Finance and Accounting**. (Acceptance)[https://heliumpeng.github.io/file/Acceptance_Letter_1711489[22268].pdf]
+- **January 1 2025:** Happy New Year! An research about how fund distribution channel affect return submitted to 15th Financial Market and Corporate Governance Conference 2025 (FMCG 2025). [Early Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5091895)
+- **November 15 2024:** An multi-disciplinary research in neuroeconomics with Gao Chen & Xi Gong was finished. [Early Access(On working)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037677)
+- **September 5 2024:** I extended my internship at GEEKR as remote worker, need a balance between RA workload.
+- **August 29 2024:** Really thrilled be informed that My paper [Sentiment towards Overtrading](https://arxiv.org/abs/2404.12001) has been accepted by **Journal of Finance and Accounting**. [Acceptance](https://heliumpeng.github.io/file/Acceptance_Letter_1711489[22268].pdf)
 - **July 4 2024:** Finished the manuscript of [Generative AI Goverance Framework](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4885346) to [AI and Ethics](https://link.springer.com/journal/43681), it's a capstone for my Alignment Research.
 - **June 26 2024:** I finished my paper [New intelligent empowerment for digital transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877072)🔗 and submiited to [Technovation](https://www.sciencedirect.com/journal/technovation)
 - **May 21 2024:** The [Online Coffee Chat](https://calendly.com/heliumbob/how-about-an-online-coffee-with-helium) and [disqus](https://heliumpeng.github.io/blogs/) are available now, welcome to leave a message and chat with me!

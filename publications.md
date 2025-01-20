@@ -9,14 +9,18 @@ title: Publications
 ## Paper On Working
 
 - [Internet sentiment exacerbates intraday overtrading, evidence from A-Share market](https://arxiv.org/abs/2404.12001)
- **Peng Yifeng**<br>Under reviewing by [Journal of Behavioral Finance](https://rp.tandfonline.com/submission/create?journalCode=HBHF)<br>
+ **Peng Yifeng**<br>Under reviewing by [Financial Innovation](https://jfin-swufe.springeropen.com/)<br>
 
-- [Volatility-based strategy on Chinese equity index ETF options](https://arxiv.org/abs/2403.00474)<br>**Peng Yifeng**<br>Revising, will deliver ASAP
+- [Volatility-based strategy on Chinese equity index ETF options](https://arxiv.org/abs/2403.00474)<br>**Peng Yifeng**<br>Revising
+
+## Conference
+
+- [Convenience at a Cost: The Paradox of Internet-Based Fund Distribution Channels and Investment Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5091895)**Peng Yifeng,** **Gao Chen**<br>Submitted to [15th Financial Market and Corporate Governance Conference 2025 (FMCG 2025)](https://ibschool-en.hnu.edu.cn/Financial_Markets_and_Corporate_Governance_Co/m_Financial_Markets_and_Corporate_Governance_Co.htm)
 
 ## Journal Paper
 
 - [New intelligent empowerment for digital transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877072)
-  **Peng Yifeng,** **Gao Chen**<br>Under reviewing by [Technovation](https://www.sciencedirect.com/journal/technovation)
+  **Peng Yifeng,** **Gao Chen**<br>Under reviewing by [Financial Innovation](https://jfin-swufe.springeropen.com/)
 - [Technological Non-Neutrality, Model Deconstruction & Governance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4885346)
   **Peng YIfeng**<br>Submiited to [AI and Ethics](https://link.springer.com/journal/43681)
   <br>
