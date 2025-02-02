@@ -38,6 +38,7 @@ Try to find a connection between human behavior and machine behavior, LLMs were 
 ---
 
 ## News and Updates
+- **February 1 2025:** I got 25/2722 in [**Kaggle Forcasting Sticker Sales Competition**](https://www.kaggle.com/competitions/playground-series-s5e1), really really really unbelievable works for me!
 - **January 1 2025:** Happy New Year! An research about how fund distribution channel affect return submitted to 15th Financial Market and Corporate Governance Conference 2025 (FMCG 2025). [Early Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5091895)
 - **December 28 2024:** I achieved new record in [**Kaggle Jane Street Real-Time Market Data Forecasting**](https://heliumpeng.github.io/file/JaneStreet%E7%AB%9E%E8%B5%9B%E9%93%B6%E7%89%8C119%E5%90%8D.png).
 - **November 15 2024:** An multi-disciplinary research in neuroeconomics with Gao Chen & Xi Gong was finished. [Early Access(On working)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037677)
@@ -47,7 +48,3 @@ Try to find a connection between human behavior and machine behavior, LLMs were 
 - **June 26 2024:** I finished my paper [New intelligent empowerment for digital transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877072)🔗 and submiited to [Technovation](https://www.sciencedirect.com/journal/technovation)
 - **May 21 2024:** The [Online Coffee Chat](https://calendly.com/heliumbob/how-about-an-online-coffee-with-helium) and [disqus](https://heliumpeng.github.io/blogs/) are available now, welcome to leave a message and chat with me!
 - **April 21 2024:** New Personl website! Welcome everyone!
-
-
-<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
