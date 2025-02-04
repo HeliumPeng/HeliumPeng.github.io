@@ -38,7 +38,7 @@ Try to find a connection between human behavior and machine behavior, LLMs were 
 ---
 
 ## News and Updates
-- **February 1 2025:** I got 25/2722 in [**Kaggle Forcasting Sticker Sales Competition**](https://www.kaggle.com/competitions/playground-series-s5e1), really really really unbelievable works for me!
+- **February 1 2025:** I got 25/2722 in [**Kaggle Forcasting Sticker Sales Competition**](https://www.kaggle.com/competitions/playground-series-s5e1), really really really unbelievable works for me! [Screenshot for result](https://heliumpeng.github.io/file/Forecasting Sticker Sales25名.png)
 - **January 1 2025:** Happy New Year! An research about how fund distribution channel affect return submitted to 15th Financial Market and Corporate Governance Conference 2025 (FMCG 2025). [Early Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5091895)
 - **December 28 2024:** I achieved new record in [**Kaggle Jane Street Real-Time Market Data Forecasting**](https://heliumpeng.github.io/file/JaneStreet%E7%AB%9E%E8%B5%9B%E9%93%B6%E7%89%8C119%E5%90%8D.png).
 - **November 15 2024:** An multi-disciplinary research in neuroeconomics with Gao Chen & Xi Gong was finished. [Early Access(On working)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5037677)
