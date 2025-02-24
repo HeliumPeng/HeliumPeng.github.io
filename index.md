@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://heliumpeng.github.io/images/主页个人照.jpg" class="floatpic" width="600" height="400">
 
-It's **helium Peng** here(You can just call me Bob).
+It's **Peng** here(You can just call me Bob).
 
 I am looking for 2025 Spring/Fall intake Ph.D in Finance/Fintech as well as artificial intellgence, I prefer interdisciplinary works. 
 
@@ -16,9 +16,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2021 - Jul 2023：**Chinese University of Hong Kong (Shenzhen) (MSc, Finance)
-- **Sep 2020 - Aug 2021:**University of Hong Kong (MSc, Computer Science)
-- **Sep 2016 - June 2020:**Hunan University (BEng, Computer Science and Technology)
+- **Sep 2021 - Jul 2023:** Chinese University of Hong Kong (Shenzhen) (MSc, Finance)
+- **Sep 2020 - Aug 2021:** University of Hong Kong (MSc, Computer Science)
+- **Sep 2016 - June 2020:** Hunan University (BEng, Computer Science and Technology)
 
 ---
 
@@ -38,6 +38,7 @@ Try to find a connection between human behavior and machine behavior, LLMs were 
 ---
 
 ## News and Updates
+- **February 16 2025:** Our work Poisoned Pills: insights from vulnerability disparity among llms, submitted to ACL 2025. Preprint is available [here](https://arxiv.org/abs/2502.12001).
 - **February 1 2025:** I got 25/2722 in [**Kaggle Forcasting Sticker Sales Competition**](https://www.kaggle.com/competitions/playground-series-s5e1), really really really unbelievable works for me! [Screenshot for result](https://heliumpeng.github.io/file/Forecasting Sticker Sales25名.png)
 - **January 1 2025:** Happy New Year! An research about how fund distribution channel affect return submitted to 15th Financial Market and Corporate Governance Conference 2025 (FMCG 2025). [Early Access](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5091895)
 - **December 28 2024:** I achieved new record in [**Kaggle Jane Street Real-Time Market Data Forecasting**](https://heliumpeng.github.io/file/JaneStreet%E7%AB%9E%E8%B5%9B%E9%93%B6%E7%89%8C119%E5%90%8D.png).
