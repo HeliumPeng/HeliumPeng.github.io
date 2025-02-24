@@ -8,14 +8,17 @@ title: Publications
 
 ## Paper On Working
 
-- [Internet sentiment exacerbates intraday overtrading, evidence from A-Share market](https://arxiv.org/abs/2404.12001)
+- [Internet sentiment exacerbates intraday overtrading, evidence from A-Share market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4943033)
  **Peng Yifeng**<br>Under reviewing by [Financial Innovation](https://jfin-swufe.springeropen.com/)<br>
 
 - [Volatility-based strategy on Chinese equity index ETF options](https://arxiv.org/abs/2403.00474)<br>**Peng Yifeng**<br>Revising
 
 ## Conference
 
-- [Convenience at a Cost: The Paradox of Internet-Based Fund Distribution Channels and Investment Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5091895)**Peng Yifeng,** **Gao Chen**<br>Submitted to [15th Financial Market and Corporate Governance Conference 2025 (FMCG 2025)](https://ibschool-en.hnu.edu.cn/Financial_Markets_and_Corporate_Governance_Co/m_Financial_Markets_and_Corporate_Governance_Co.htm)
+- [Poisoned Pills: insights from vulnerability disparity among llms](https://heliumpeng.github.io/mypaper/2025/Poison_Pills_Preprints.pdf)
+  **Peng Yifeng, Chen Chen, Wu Zhizheng**<br>Submitted to [ACL 2025](https://2025.aclweb.org/)
+
+- [Convenience at a Cost: The Paradox of Internet-Based Fund Distribution Channels and Investment Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150315)**Peng Yifeng,** **Gao Chen**<br>Submitted to [15th Financial Market and Corporate Governance Conference 2025 (FMCG 2025)](https://ibschool-en.hnu.edu.cn/Financial_Markets_and_Corporate_Governance_Co/m_Financial_Markets_and_Corporate_Governance_Co.htm)
 
 ## Journal Paper
 
