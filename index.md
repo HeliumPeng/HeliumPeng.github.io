@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://heliumpeng.github.io/images/主页个人照.jpg" class="floatpic" width="600" height="400">
 
-It's **Peng** here(You can just call me Bob).
+It's **Peng** here(or just call me Bob).
 
-I am looking for 2025 Spring/Fall intake Ph.D in Finance/Fintech as well as artificial intellgence, I prefer interdisciplinary works. 
+I am looking for 2026 Spring/Fall intake Ph.D in Finance/Fintech as well as artificial intellgence, I prefer interdisciplinary works. 
 
 Currently, I worked as a research asscioate under the guidence of [Prof. CHEN chen](https://myweb.cuhk.edu.cn/chenchen2020) in Chinese University of Hong Kong (Shenzhen), meanwhile I'm collaborating with researchers with similiar interests.
 
