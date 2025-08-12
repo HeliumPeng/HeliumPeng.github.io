@@ -38,6 +38,7 @@ Try to find a connection between human behavior and machine behavior, LLMs were 
 ---
 
 ## News and Updates
+- **August 12 2025:** Our work "Poisoned Pills: insights from vulnerability disparity among llms" has been submitted to [**NeurIPS Lock-LLM Workshop 2025**](https://lock-llm.github.io/) for peer discussion.
 - **March 1 2025:** Happy to announce that our work "Poisoned Pills: insights from vulnerability disparity among llms" has been accepted by [**ACL 2025**](https://openreview.net/forum?id=AxRiACikG6&noteId=uf6p7sP67p&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FACL%2FARR%2F2025%2FFebruary%2FAuthors%23your-submissions)).
 - **February 16 2025:** Our work Poisoned Pills: insights from vulnerability disparity among llms, submitted to ACL 2025. Preprint is available [here](https://heliumpeng.github.io/mypaper/2025/Poison_Pills_Preprints.pdf).
 - **February 1 2025:** I got 25/2722 in [**Kaggle Forcasting Sticker Sales Competition**](https://www.kaggle.com/competitions/playground-series-s5e1), really really really unbelievable works for me! [Screenshot for result](https://heliumpeng.github.io/file/Forecasting Sticker Sales25名.png)
