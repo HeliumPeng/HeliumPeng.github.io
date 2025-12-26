@@ -6,9 +6,11 @@ title: Blogs
 
 ## Chinese/English Blogs
 Currently On working! I'm trying to move my essays and blogs here when I have free time.
-目前还在建设中，我会将我的随笔和博客内容定期搬运到此页面，敬请期待。
+目前还在建设中，我会将我的随笔和博客内容定期搬运到此页面。
 
 ### 2025
+
+
 
 #### 九月/September
 - [坐在这里](https://heliumpeng.github.io/blogs/2025-9-01_Blog/)
