@@ -4,29 +4,34 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update:20th January 2025&nbsp;  [中文版本 (Chinese Version)](https://heliumpeng.github.io/file/publications-zh/)
+> Lastest Update:29th April 2026&nbsp;  [中文版本 (Chinese Version)](https://heliumpeng.github.io/file/publications-zh/)
 
 ## Paper On Working
-
-- [Internet sentiment exacerbates intraday overtrading, evidence from A-Share market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4943033)
- **Peng Yifeng**<br>Under reviewing by [Financial Innovation](https://jfin-swufe.springeropen.com/)<br>
 
 - [Volatility-based strategy on Chinese equity index ETF options](https://arxiv.org/abs/2403.00474)<br>**Peng Yifeng**<br>Revising
 
 ## Conference
 
-- [Poisoned Pills: insights from vulnerability disparity among llms](https://heliumpeng.github.io/mypaper/2025/Poison_Pills_Preprints.pdf)
-  **Peng Yifeng, Chen Chen, Wu Zhizheng**<br>Submitted to [ACL 2025](https://2025.aclweb.org/)
-
 - [Convenience at a Cost: The Paradox of Internet-Based Fund Distribution Channels and Investment Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5150315)**Peng Yifeng,** **Gao Chen**<br>Submitted to [15th Financial Market and Corporate Governance Conference 2025 (FMCG 2025)](https://ibschool-en.hnu.edu.cn/Financial_Markets_and_Corporate_Governance_Co/m_Financial_Markets_and_Corporate_Governance_Co.htm)
+
+## Conference Paper (Accepted)
+
+- [Poisoned Pills: insights from vulnerability disparity among llms](https://heliumpeng.github.io/mypaper/2025/Poison_Pills_Preprints.pdf)
+  **Peng Yifeng, Chen Chen, Wu Zhizheng**<br>**Accepted by [ACL 2025](https://2025.aclweb.org/)**
 
 ## Journal Paper
 
 - [New intelligent empowerment for digital transformation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877072)
   **Peng Yifeng,** **Gao Chen**<br>Under reviewing by [Financial Innovation](https://jfin-swufe.springeropen.com/)
 - [Technological Non-Neutrality, Model Deconstruction & Governance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4885346)
-  **Peng YIfeng**<br>Submiited to [AI and Ethics](https://link.springer.com/journal/43681)
+  **Peng YIfeng**<br>Submitted to [AI and Ethics](https://link.springer.com/journal/43681)
   <br>
+
+## Journal Paper (Accepted)
+
+- [Internet sentiment exacerbates intraday overtrading, evidence from A-Share market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4943033)
+  **Peng Yifeng**<br>**Accepted by [Journal of Finance and Accounting](https://jfin-swufe.springeropen.com/)**<br>
+  **[Code Repository](https://github.com/HeliumPeng/Eastmoney.guba.com-sentiment)** 🔗
 
 ---
 
